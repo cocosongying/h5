@@ -5,7 +5,7 @@
     })
 })();
 var article_list=[
-    {"title":"My Heart Is With You","desc":"满屏心心","img":"true","large":"","datetime":"2019-02-14","link":"/h5/my_heart_is_with_you.html","coverlink":"/h5/img/my_heart_is_with_you.png"}
+    {"title":"My Heart Is With You","desc":"满屏心心","img":"true","large":"","datetime":"2019-02-14","link":"/h5/f/my_heart_is_with_you.html","coverlink":"/h5/img/my_heart_is_with_you.png"}
 ];
 var innerHtml="";
 for (let article of article_list) {
